@@ -64,7 +64,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 270);
+            this.button1.Location = new System.Drawing.Point(12, 262);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
@@ -118,7 +118,7 @@
             this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle5;
-            this.dataGridView1.Size = new System.Drawing.Size(369, 195);
+            this.dataGridView1.Size = new System.Drawing.Size(389, 195);
             this.dataGridView1.TabIndex = 4;
             // 
             // FoodName
@@ -135,7 +135,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(296, 262);
+            this.button3.Location = new System.Drawing.Point(243, 263);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 5;
@@ -145,7 +145,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(405, 263);
+            this.button4.Location = new System.Drawing.Point(417, 263);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 22);
             this.button4.TabIndex = 6;
