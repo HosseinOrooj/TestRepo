@@ -54,7 +54,7 @@ namespace WindowsFormsApplication2
 
         private void button4_Click(object sender, EventArgs e)
         {
-            office2010BlackTheme1.Load();
+            
             //FileStream fileStream = new FileStream(@"C:\Users\Administrator\Desktop\Sample.txt", FileMode.Open, FileAccess.Read);
             //StreamReader streamReader = new StreamReader(fileStream);
             //string all = streamReader.ReadToEnd();
